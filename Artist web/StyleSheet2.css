@@ -9,7 +9,7 @@
     min-height: 100vh;
     background: linear-gradient(45deg, #22046b, #e14e42);
     color: #fff;
-    position:relative;
+    position:absolute;
 }
 
 .navbar{
